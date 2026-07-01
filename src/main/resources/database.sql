@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS petistaan;
-USE petistaan;
+CREATE DATABASE IF NOT EXISTS petistaan_pet;
+USE petistaan_pet;
 
 CREATE TABLE domestic_pet_table (
                                     id INTEGER NOT NULL PRIMARY KEY,
